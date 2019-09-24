@@ -1,0 +1,23 @@
+{
+  "pa_enable": "1",
+  "notifications": [
+    {
+      "data": {
+        "image": "https://us.123rf.com/450wm/foodandmore/foodandmore1611/foodandmore161100068/65412980-flame-grilled-margherita-italian-pizza-with-fresh-basil-leaves-on-a-thick-biscuit-base-with-mozzarel.jpg",
+        "sound": true,
+        "deeplink": "https://www.google.com",
+        "actionButton": [],
+        "expiry": 1559647986,
+        "carousel": [],
+        "title": "Title ---->1234",
+        "message": "Push Notification Message",
+        "customPayload": {
+          "name": "sumit s1ambhal lega"
+        },
+        "trid": "25806-764-0-0-T1qw1212123qwqwe12121232123-A"
+      },
+      "trid": "25806-764-0-0-T11121289115341-A"
+    }
+  ],
+  "pa_freq": "15"
+}
